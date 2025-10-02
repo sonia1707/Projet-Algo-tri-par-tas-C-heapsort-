@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "utils.h"
 #include "heapsort.h"
 #include "build_heap.h"
