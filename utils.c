@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "utils.h"
 // Fonction pour échanger deux éléments
 void swap(int *a, int *b) {
     int temp = *a;
