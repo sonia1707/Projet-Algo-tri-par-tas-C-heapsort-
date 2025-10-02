@@ -1,4 +1,5 @@
 #include "utils.h"
+#include "heapify.h"
 // Fonction pour rétablir la propriété du tas (heapify)
 void heapify(int arr[], int n, int i) {
     int largest = i;          // Racine
