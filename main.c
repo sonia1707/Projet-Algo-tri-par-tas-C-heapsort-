@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include "utils.h"
+#include "heapsort.h"
 // Fonction pour tester avec différents jeux de données
 void runTests() {
     printf("=== TESTS DU TRI PAR TAS ===\n\n");
