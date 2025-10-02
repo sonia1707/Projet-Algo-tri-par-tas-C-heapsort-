@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "build_heap.h"
+#include "heapify.h"
 #include "utils.h"
 // Fonction pour construire le tas max
 void buildMaxHeap(int arr[], int n) {
