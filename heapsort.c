@@ -1,4 +1,7 @@
 #include "utils.h"
+#include "heapsort.h"
+#include "build_heap.h"
+#include "heapify.h"
 // Fonction principale de tri par tas
 void heapsort(int arr[], int n) {
  // Étape 1 : Construction du tas max
