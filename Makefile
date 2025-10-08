@@ -1,4 +1,4 @@
-# Makefile pour le projet Heapsort — signé SJ-Mitsu
+# Makefile pour le projet Heapsort 
 
 CC = gcc
 CFLAGS = -Wall -Wextra
@@ -7,8 +7,8 @@ EXEC = heapsort
 
 all:
     $(CC) $(CFLAGS) $(SRC) -o $(EXEC)
-    @echo "✅ Compilation réussie ! Exécutable : $(EXEC)"
+    @echo " Compilation réussie ! Exécutable : $(EXEC)"
 
 clean:
     rm -f $(EXEC)
-    @echo "🧹 Nettoyage terminé — signé SJ-Mitsu"
+    @echo " Nettoyage terminé"
