@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 🧠 Algo-tri-par-tas-C-heapsort-
 Implémentation du tri par tas (heapsort) en langage C et sans bibliothèque externe.
 ### Introduction:
@@ -29,3 +30,6 @@ make // Attention aux erreurs de tabulation dans le Makefile
 "On a eu du mal à comprendre pourquoi heapify est appelé en ordre inverse… jusqu’à ce que on a visualisé le tas comme un arbre binaire inversé"
 ### 🧗‍♂️ Difficultés rencontrées:
 
+=======
+# Projet-Algo-tri-par-tas-C-heapsort-
+>>>>>>> 138647673255686a4562d353d638dedd06ce258f
