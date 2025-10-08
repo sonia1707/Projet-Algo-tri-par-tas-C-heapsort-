@@ -3,5 +3,6 @@
 #define BUILD_HEAP_H
 // Construit un tas max à partir d’un tableau
 void build_heap(int *tab, int taille);
+void printHeap(int *tab, int taille);
 
 #endif
