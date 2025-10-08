@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build heapsort",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "src/heapsort.c",
+        "-o",
+        "heapsort.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
