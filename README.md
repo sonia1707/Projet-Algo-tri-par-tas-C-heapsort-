@@ -32,15 +32,15 @@ make  # Les erreurs de tabulation dans le Makefile peuvent compliquer la compila
 ./heapsort
 ```
 ### Membres du groupe:
-1- Letticia: 
+## 1- Letticia: 
 main.c : point d’entrée du programme, gestion des appels
-2- Sonia:
+## 2- Sonia:
 build_heap.c et build_heap.h: construction du tas initial
-3- Mélanie:
+## 3- Mélanie:
 utils.c et utils.h: fonctions utilitaires et support technique
-4- Romance:
+## 4- Romance:
 heapify.c et heapify.h: maintien de la propriété du tas
-5- Larysa:
+## 5- Larysa:
 heapsort.c et heapsort.h: implémentation du tri
   
 
