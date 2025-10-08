@@ -1,7 +1,7 @@
-Ajout de la fonction buildMaxHeap() : construit un tas max à partir d’un tableau, en partant du dernier nœud non-feuille.
+// build_heap.h — Déclaration de build_heap
+#ifndef BUILD_HEAP_H
+#define BUILD_HEAP_H
 
-Intégration de printHeap() : fonction bonus pour visualiser l’état du tas et sa structure arborescente (nœud, gauche, droite).
+void build_heap(int *tab, int taille);
 
-Utilisation des modules heapify.h et utils.h pour modularité et clarté.
-
-Préparation pour un affichage pédagogique du tri par tas, utile en présentation ou debug.
+#endif
