@@ -6,7 +6,7 @@
 // Fonction principale de tri par tas
 void heapsort(int arr[], int n) {
 <<<<<<< HEAD
- // Étape 1 : Construction du tas max
+ // Étape 1 : Construction du tas max 
     buildMaxHeap(arr, n);
      printf("Après construction du tas max: ");
     printArray(arr, n);
