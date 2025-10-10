@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include  <stdio.h>
 #include "utils.h"
 #include "heapsort.h"
 // Fonction pour tester avec différents jeux de données
@@ -60,5 +60,6 @@ int main() {
     printArray(arr, n);
     printf("Tri validé: %s\n", isSorted(arr, n) ? "OUI" : "NON");
     
-    return 0;
+    return 0;  
 }
+   
